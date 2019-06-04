@@ -1,0 +1,6 @@
+@media (min-width: 576px)
+.card-deck {
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    /* margin-right: -15px; */
+}
